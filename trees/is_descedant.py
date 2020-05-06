@@ -11,9 +11,9 @@ Given a tree such as:
 
 Write a function that takes in two values and determines if the second paramter is a descendant node of the first parameter.
 Example 1
-solution.solve(89, 16) = true
+solution.solve(node, 89, 16) = true
 Example 2
-solution.solve(412, 44) = false
+solution.solve(node, 412, 44) = false
 """
 
 
